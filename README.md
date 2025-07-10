@@ -68,13 +68,13 @@ Simple Classification Model | Reinforcement Learning
 ## Neural Networks Concepts
 `TODO`: Talk about neural networks architectures. Image convolution and max-pooling strategies. Dropout for regularization, how it may avoid over-reliance on specific weights. 
 
-[Traffic](06-neural-networks/project/traffic/)         | |
-:-------------------------:|:-------------------------:
-Image Classification | |
-Hidden Layers | |
-Convolution | |
-Pooling Layers | |
-Dropout | |
+[Traffic](06-neural-networks/project/traffic/)         | 
+:-------------------------:|
+Image Classification | 
+Hidden Layers | 
+Convolution | 
+Pooling Layers | 
+Dropout | 
 
 
 ## Natural Language Ideas
