@@ -2,7 +2,6 @@
 # <h1 align='center'>:crystal_ball: CS50ai :crystal_ball:</h1>
 
 <p align='center'> CS50's Introduction to Artificial Intelligence with Python repo.</p>
-<p align='center'><img src="media/TODO.png" alt="" width="75%"/> </p>
 
 # Projects
 
@@ -13,10 +12,9 @@ Search problems can be modeled as an `agent` within an `environment`. This agent
 
 [Degrees](01-search/project/degrees/srs)         |  [Tic-Tac-Toe](01-search/project/tic-tac-toe/src)
 :-------------------------:|:-------------------------:
-<img src="01-search/project/degrees/src/media/frontier/frontier.gif"  width="300"/>  |  <img src="01-search/project/tic-tac-toe/src/media/computer-won.png" width="300"/>
 Nodes and Frontiers | MinMax Strategy 
 Breadth First Search | Adversarial Search
-Depth First Search | ![formula](https://render.githubusercontent.com/render/math?math=\alpha-\beta) Pruning
+Depth First Search |  Pruning
 
 
 
