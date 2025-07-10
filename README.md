@@ -25,7 +25,6 @@ Depth First Search |  Pruning
 
 [Knights and Knaves](02-knowledge/project/knights/)         |  [Minesweeper](02-knowledge/project/minesweeper/)
 :-------------------------:|:-------------------------:
-<img src="02-knowledge/project/knights/media/TODO.png"  alt="" width="300"/>  |  <img src="02-knowledge/project/minesweeper/media/pygame-minesweeper-32x32.gif" width="300"/>
 Proposition Logic | Knowledge representation 
 | | Inference
 
@@ -35,7 +34,6 @@ Proposition Logic | Knowledge representation
 
 [Pagerank](03-uncertainty/project/pagerank/) | [Heredity](03-uncertainty/project/heredity/)
 :-------------------------:|:-------------------------:
-<img src="03-uncertainty/project/pagerank/TODO" alt="" width="300"/> | <img src="03-uncertainty/project/heredity/media/bayesian-network.png" alt=""  width="300"/>
 Random Surfer Model  | Bayesian Network 
 Markov Chain | Probability Distribution 
 
@@ -47,14 +45,11 @@ Markov Chain | Probability Distribution
 
 Local Search (Hill-Climbing)| Linear Programming (Lagrange Multipliers)  | Constraint Satisfaction Problem (CSP)
 :-------------------------:|:-------------------------:|:------------:
-<img src="04-optimization/class/media/hill-climbing.png"  width="300"/>  |  <img src="04-optimization/class/media/linear-programming.png" width="300"/> | <img src="04-optimization/class/media/csp.png" width="300"/>
-
 `TODO`: Specify that sudoku was an independent project. Deepen on Constraint Satisfaction Problems and how modeling a sudoku was the tough part. Node Consistency was easy, Arc consistency was tough.
 
 
 [Crossword](04-optimization/project/crossword)         |  [Sudoku](04-optimization/project/sudoku)
 :-------------------------:|:-------------------------:
-<img src="04-optimization/project/crossword/media/output.png"  width="300"/>  |  <img src="04-optimization/project/sudoku/media/1/output-easy-v2.gif" width="300"/>
 Node Consistency | Modeling (Variable, Row, Column, Box)
 Arc Consistency | Restriction Representation
 AC3 Algorithm | Backtracking
@@ -67,7 +62,6 @@ AC3 Algorithm | Backtracking
 
 [Shopping](05-learning/project/shopping/)         |  [Nim](05-learning/project/nim/)
 :-------------------------:|:-------------------------:
-<img src="05-learning/project/shopping/TODO.png" alt=""  width="300"/>  |  <img src="05-learning/project/nim/TODO.png" alt="" width="300"/>
 Simple Classification Model | Reinforcement Learning
 | | Q-Learning
 
@@ -76,7 +70,6 @@ Simple Classification Model | Reinforcement Learning
 
 [Traffic](06-neural-networks/project/traffic/)         | |
 :-------------------------:|:-------------------------:
-<img src="06-neural-networks/project/traffic/TODO.gif"  alt="" width="300"/> | |
 Image Classification | |
 Hidden Layers | |
 Convolution | |
@@ -89,7 +82,6 @@ Dropout | |
 
 [Parser](07-language/project/parser/)         |  [Questions](07-language/project/questions/)
 :-------------------------:|:-------------------------:
-<img src="07-language/project/parser/TODO.gif"  alt="" width="300"/>  |  <img src="07-language/project/questions/TODO.png" alt="" width="300"/>
 Context Free Grammar | Term Frequency
 | | Inverse Document Frequency
 | | Markov Chains 
